@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0575f11a-0fe0-4920-b5b1-06e8c673f489" name="Default Changelist" comment="test3">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/Chinese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/Demo1_IOC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/test/Chinese.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/test/Demo1_IOC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/test/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/test/hello.class" afterDir="false" />
+    <list default="true" id="0575f11a-0fe0-4920-b5b1-06e8c673f489" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +115,7 @@
       <updated>1596423243529</updated>
       <workItem from="1596423246550" duration="2709000" />
       <workItem from="1596426393320" duration="470000" />
-      <workItem from="1596435392569" duration="3818000" />
+      <workItem from="1596435392569" duration="5163000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1596424179992</created>
@@ -149,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596444887002</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test3">
+      <created>1596446058857</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596446058857</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,10 +155,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="633" y="118" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1596423962420" />
-    <state x="642" y="15" key="CommitChangelistDialog2" timestamp="1596445338146">
+    <state x="642" y="11" key="CommitChangelistDialog2" timestamp="1596446057759">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="642" y="15" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596445338146" />
+    <state x="642" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596446057759" />
     <state x="821" y="200" key="FileChooserDialogImpl" timestamp="1596445172289">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -198,10 +187,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="540" y="101" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596441360688" />
-    <state x="633" y="197" key="Vcs.Push.Dialog.v2" timestamp="1596445139351">
+    <state x="633" y="197" key="Vcs.Push.Dialog.v2" timestamp="1596448586535">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="633" y="197" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596445139351" />
+    <state x="633" y="197" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596448586535" />
     <state x="222" y="111" key="new project wizard" timestamp="1596426859127">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
